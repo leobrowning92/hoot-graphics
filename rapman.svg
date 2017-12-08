@@ -18,7 +18,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="rapman.svg"
-   inkscape:export-filename="/home/leo/Desktop/whatahoot.png"
+   inkscape:export-filename="D:\Leo\gitrepos\hoot-graphics\rapman.png"
    inkscape:export-xdpi="160"
    inkscape:export-ydpi="160">
   <defs
@@ -269,16 +269,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="21.385949"
+     inkscape:cx="-53.364051"
      inkscape:cy="73.873472"
      inkscape:document-units="mm"
      inkscape:current-layer="layer3"
      showgrid="false"
      showborder="true"
-     inkscape:window-width="1877"
-     inkscape:window-height="1056"
-     inkscape:window-x="1963"
-     inkscape:window-y="24"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -303,7 +303,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
