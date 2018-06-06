@@ -2,7 +2,7 @@
 
 These are a set of SVG images made to represent the instruments [tableh00t3rs](http://cyberboy666.com/tablehooters/), which was a musical project brought into being by cyberboy666 & user43368831.
 
-Inline-style:
+
 ![Beats, brain, and bending of the sounds](majorhooter.png)
 
 The graphics are a simple, minimal and flat design meant to represent the character of the instruments, rather than the exact detail.
